@@ -38,14 +38,14 @@ git clone https://github.com/Deepaktumula/WeatherApp.git
 
 To use this app, you'll need an API key from OpenWeatherMap. Replace `"YOUR_API_KEY"` in the `script.js` file with your actual API key.
 
-## javascript
+`` javascript
 const apiKey = "YOUR_API_KEY";
 
-Contributions
+## Contributions
 Contributions are welcome! If you'd like to contribute to the project, feel free to submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 Special thanks to codehelp and OpenWeatherMap for providing the weather data API.
