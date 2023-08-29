@@ -44,8 +44,5 @@ const apiKey = "YOUR_API_KEY";
 ## Contributions
 Contributions are welcome! If you'd like to contribute to the project, feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 Special thanks to codehelp and OpenWeatherMap for providing the weather data API.
